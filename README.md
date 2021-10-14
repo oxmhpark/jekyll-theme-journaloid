@@ -8,5 +8,13 @@ A [Github Pages](https://pages.github.com)-[Jekyll](https://jekyllrb.com) theme 
 3. Follow rest installation steps of Github Pages.
 4. Done.
 
+## Site Level Customizations
+- `_config.yml > author : string` -- If not empty, *author* field appears in the `post` layout.
+- `layouts/default.html` -- Contains header links.
+
+## Post Level Customizations
+- `last_modified_at : Y-m-d` -- If not empty, *updated* field appears in the `post` layout. 
+- `comments : bool` -- Determines printing comments and commenting form.
+
 ## Examples
 - [Journaloid Demo](https://oxmhpark.github.io/jekyll-theme-journaloid)
