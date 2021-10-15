@@ -10,7 +10,7 @@ A [Github Pages](https://pages.github.com)-[Jekyll](https://jekyllrb.com) theme 
 
 ## Site Level Customizations
 - `_config.yml > author : string` -- If not empty, *author* field appears in the `post` layout.
-- `layouts/default.html` -- Contains header links.
+- `_includes/nav.html` -- Contains navigation links.
 
 ## Post Level Customizations
 - `last_modified_at : Y-m-d` -- If not empty, *updated* field appears in the `post` layout. 
