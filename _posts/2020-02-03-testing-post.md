@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Testing Post"
-comment: true
+comments: true
 ---
 This is post body.
